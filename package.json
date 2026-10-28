@@ -1,0 +1,13 @@
+{
+  "name": "bordereaux-cnas-casnos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gestion des bordereaux CNAS / CASNOS (dépôts, paiements, rejets, réintégrations)",
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/filesystem": "^6.0.0",
+    "@capacitor/share": "^6.0.0"
+  }
+}
